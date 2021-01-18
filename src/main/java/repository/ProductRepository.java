@@ -6,4 +6,6 @@ import com.project.crud.entity.Product;
 
 public interface ProductRepository extends JpaRepository<Product, Integer> {
 
+	
+	
 }
